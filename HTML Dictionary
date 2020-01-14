@@ -1,44 +1,55 @@
-<!DOCTYPE>:	Destription: Specifies the HTML version.
-		Attributes: html
-		Example: <!DOCTYPE html>
+<!DOCTYPE>: Destription: Specifies the HTML version.
+            Attributes: html
+            Example: <!DOCTYPE html>
 
-<a>:	Description: Creates a clickable, blue, underlined link which stands for anchor.
-	Attributes: href, target
-	Example: <a href="https//google.com"></a>
+<a>:	    Description: Creates a clickable, blue, underlined link which stands for anchor.
+	    Attributes: href, target
+	    Example: <a href="https//google.com"></a>
 
-<b>:	Destription: Bolds text.
-	Attributes: none
-	Example: <b> This text is bolded</b>
+<b>:	    Destription: Bolds text.
+	    Attributes: none
+	    Example: <b> This text is bolded</b>
 
-<body>:	Destription: Contains the contents of the webpage.
-	Attributes: none
-	Example: <body> <p>
-<h1>:	
+<body>:	    Destription: Contains the contents of the webpage.
+	    Attributes: none
+	    Example: <body> <p> <b>Bolded text</b> </p> </body>
+	
+<h1>:       Description: The main header, an enlarged, bolded text on a separate line (1 = largest)
+            Attributes: none
+            Example: <h1>Daryan has skinny legs.</h1>
 
+<h6>:       Description: A subheader, same as <h1> tag, but text size is smaller. (6 = smallest)
+            Attributes: none
+            Example: <h6>Daryan has long legs.</h6>
+            
+<html>:     Description: Specifies the beginning and end of the HTML code.
+            Attributes: none
+            Example: <html> <head>The head</head> <body>The body</body> </html>
+       
+<i>:        Description: Italicizes text.
+            Attributes: none
+            Example: <i>This text is italicized</i>
+       
+<img>:      Description: Loads an image. This tag has no closing tag.
+            Attributes: src
+            Example: <img src="pikachu.png">
 
+<li>:       Description: Lists some text based on the format specified either <ul> or <ol>.
+            Attributes: none
+            Example: <li>This is a list</li>
+       
+<ol>:       Description: Formats an ordered list, containing <li>.
+            Attributes: none
+            Example: <ol><li>This is an ordered list.</li></ul>
+       
+<p>:        Description: Creates a paragraph, which exists on a separate line.
+            Attributes: none
+            Example: <p>This is a paragraph.</p>
+            
+<title>:    Description: Specifies the name of the HTML webpage.
+            Attributes:  none
+            Examples: <title>My First Website</title>
 
-
-
-
-<h2>:
-
-
-
-
-
-
-<img>:
-
-
-
-
-
-
-<li>:
-
-
-
-
-
-
-<ol>:
+<ul>:       Description: Formats an unordered list, containing <li>.
+            Attributes: none
+            Example: <ul><li>This is an unordered list.</li></ul>
