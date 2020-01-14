@@ -1,0 +1,44 @@
+<!DOCTYPE>:	Destription: Specifies the HTML version.
+		Attributes: html
+		Example: <!DOCTYPE html>
+
+<a>:	Description: Creates a clickable, blue, underlined link which stands for anchor.
+	Attributes: href, target
+	Example: <a href="https//google.com"></a>
+
+<b>:	Destription: Bolds text.
+	Attributes: none
+	Example: <b> This text is bolded</b>
+
+<body>:	Destription: Contains the contents of the webpage.
+	Attributes: none
+	Example: <body> <p>
+<h1>:	
+
+
+
+
+
+
+<h2>:
+
+
+
+
+
+
+<img>:
+
+
+
+
+
+
+<li>:
+
+
+
+
+
+
+<ol>:
